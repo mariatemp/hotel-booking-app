@@ -19,8 +19,8 @@ Installation
 To run the project locally, follow these steps:
 
 #### 1. Clone the repository
-git clone https://github.com/yourusername/hotel-booking-app-frontend.git
-cd hotel-booking-app-frontend
+git clone https://github.com/mariatemp/hotel-booking-app.git
+cd hotel-booking-app
 Install dependencies
 
 npm install
@@ -31,7 +31,7 @@ Run the application
 
 npm start
 Open your browser
-Navigate to http://localhost:3000 to view the application.
+Navigate to http://localhost:5174 to view the application.
 
 ### __Project Structure__
 hotel-booking-app/
