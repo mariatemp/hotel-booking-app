@@ -19,7 +19,7 @@ Installation
 To run the project locally, follow these steps:
 
 #### 1. Clone the repository
-git clone https://github.com/mariatemp/hotel-booking-app.git
+git clone https://github.com/mariatemp/hotel-booking-app-frontend.git
 cd hotel-booking-app
 Install dependencies
 
